@@ -1,0 +1,16 @@
+for(int i = 0; i < size; i++)
+{
+	for(int j = 0; j < size; j++)
+	{
+		xx[i][j] = 2;
+		xy[i][j] = 2;
+		yx[i][j] = 2;
+		yy[i][j] = 2;
+		floor[i][j] = 0;
+		wall[i][j] = 0;
+	}
+}
+
+mkrm(1, 1, 10, 8, 1, 2, 1, 2);
+mkrm(2, 9, 9, 13, 0, 1, 1, 2);  
+

@@ -1,0 +1,5 @@
+int scale;
+float direction;
+float direction_need;
+
+bool rotatingMethod;

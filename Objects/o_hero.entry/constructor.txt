@@ -1,0 +1,4 @@
+scale = 50;
+
+direction = direction_need = 0;
+rotatingMethod = 0;
